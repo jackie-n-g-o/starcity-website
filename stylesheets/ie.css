@@ -1,0 +1,47 @@
+/* line 4, ../sass/ie.scss */
+html[data-useragent*='MSIE 10.0'] .sketch {
+  display: none;
+}
+/* line 7, ../sass/ie.scss */
+html[data-useragent*='MSIE 10.0'] .dropdown img {
+  width: 100%;
+}
+/* line 10, ../sass/ie.scss */
+html[data-useragent*='MSIE 10.0'] .input-joined {
+  border-radius: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+/* line 15, ../sass/ie.scss */
+html[data-useragent*='MSIE 10.0'] .button-joined {
+  border-radius: 50px;
+  width: auto;
+}
+/* line 19, ../sass/ie.scss */
+html[data-useragent*='MSIE 10.0'] .logo {
+  width: 100px;
+}
+
+/* line 27, ../sass/ie.scss */
+html[data-useragent*='rv:11.0'] .sketch {
+  display: none;
+}
+/* line 30, ../sass/ie.scss */
+html[data-useragent*='rv:11.0'] .dropdown img {
+  width: 100%;
+}
+/* line 33, ../sass/ie.scss */
+html[data-useragent*='rv:11.0'] .input-joined {
+  border-radius: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+/* line 38, ../sass/ie.scss */
+html[data-useragent*='rv:11.0'] .button-joined {
+  border-radius: 50px;
+  width: auto;
+}
+/* line 42, ../sass/ie.scss */
+html[data-useragent*='rv:11.0'] .logo {
+  width: 100px;
+}

@@ -1,0 +1,6 @@
+@supports (-moz-appearance: none) and (display: contents) {
+  /* line 2, ../sass/ff.scss */
+  .ff-dn {
+    display: none;
+  }
+}

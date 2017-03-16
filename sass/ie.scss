@@ -1,0 +1,45 @@
+// IE 10
+
+html[data-useragent*='MSIE 10.0'] {
+  .sketch {
+    display: none;
+  }
+  .dropdown img {
+    width: 100%;
+  }
+  .input-joined {
+    border-radius: 50px; 
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .button-joined {
+    border-radius: 50px;
+    width: auto;
+  }
+  .logo {
+    width: 100px;
+  }
+}
+
+// IE 11
+
+html[data-useragent*='rv:11.0'] {
+  .sketch {
+    display: none;
+  }
+  .dropdown img {
+    width: 100%;
+  }
+  .input-joined {
+    border-radius: 50px; 
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .button-joined {
+    border-radius: 50px;
+    width: auto;
+  }
+  .logo {
+    width: 100px;
+  }
+}

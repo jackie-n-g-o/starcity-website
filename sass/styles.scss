@@ -1,0 +1,26 @@
+//  Vendor
+
+@import "vendor/tachyons/tachyons.scss";
+@import "vendor/mixin-circle.scss";
+
+
+//  Global Styles
+
+@import "partials/_animations.scss";
+@import "partials/_colors.scss";
+@import "partials/_typography.scss";
+@import "partials/_images.scss";
+
+
+//  Components
+
+@import "partials/_button.scss";
+@import "partials/_communities.scss";
+@import "partials/_dropdown.scss";
+@import "partials/_navigation.scss";
+@import "partials/_hero.scss";
+@import "partials/_footer.scss";
+@import "partials/_forms.scss";
+@import "partials/_map.scss";
+@import "partials/_sketch.scss"; 
+@import "partials/_table.scss";
