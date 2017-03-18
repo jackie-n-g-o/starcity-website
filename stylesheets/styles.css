@@ -9634,12 +9634,12 @@ blockquote {
 .dropup {
   display: none;
   position: absolute;
-  bottom: 62px;
+  bottom: 61px;
   left: 0;
 }
 /* line 24, ../sass/partials/_dropdown.scss */
 .dropup a {
-  margin-top: 1px;
+  border-bottom: 1px solid #2e2b2c;
   background-color: rgba(255, 255, 255, 0.95);
   width: 100%;
 }
